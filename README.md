@@ -10,7 +10,7 @@ FGSM is showed as below:
 
 2. Then, add the gradient (or its sign for each pixel), multiplied by a small step size, to the original image
 
-3. clamp the modified image to make sure the values of each pixel are between [0,1]
+3. Clamp the modified image to make sure the values of each pixel are between [0,1]
 
 ## Visualization of original image and adversarial image for Mnist
 Model predicts digit 1 for original image, but predicts 9 if FGSM is implemented. This image is successfully attacked
