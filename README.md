@@ -4,7 +4,7 @@ A simple implementation of adversarial attack on Mnist and CIFAR10, using Fast G
 
 FGSM is showed as below:
 
-<img width="717" alt="Screen Shot 2023-05-31 at 12 28 25 PM" src="https://github.com/liangkunn/SimpleAdversarialAttack/assets/36016499/ed0be318-48b2-46ad-843a-389eb9290eda">
+<img width="1075" alt="Screen Shot 2023-05-31 at 12 35 27 PM" src="https://github.com/liangkunn/SimpleAdversarialAttack/assets/36016499/00b12a50-7ef2-49ef-8a68-8f9dd8e52215">
 
 1. Firstly calculates the Loss and then calculate the gradient of the Loss w.r.t the image
 
